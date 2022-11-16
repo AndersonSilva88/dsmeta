@@ -1,4 +1,3 @@
-import NotificationButton from "./components/notificationButton"
 import Header from "./components/Header";
 import SalesCard from "./components/SalesCard";
 
